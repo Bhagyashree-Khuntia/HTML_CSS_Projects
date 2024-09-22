@@ -1,0 +1,13 @@
+nav  ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+a:hover{
+    color: green;
+}
+p{
+    height: 60px;
+    width: 60px;
+}

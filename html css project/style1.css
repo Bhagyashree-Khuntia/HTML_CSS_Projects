@@ -1,0 +1,23 @@
+
+
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+}
+form fieldset{
+border: 2px solid black;
+overflow: scroll;
+/* text-align: center; */
+
+}
+
+    
+.abc {
+    display: flex;
+    
+   
+}
+a{
+    text-decoration: none;
+    list-style: none;
+}
